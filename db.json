@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "name": "pizza",
+      "id": 1
+    },
+    {
+      "name": "drinks",
+      "id": 2
+    },
+    {
+      "name": "food",
+      "id": 3
+    }
+  ]
+}
